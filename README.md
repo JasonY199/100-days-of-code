@@ -8,7 +8,7 @@ In this project, I completed a number of challenges using the turtle module in P
 
 2. Clone the repository
 
-    ```git clone https://github.com/jason/turtle-dot-painting.git```
+    ```git clone https://github.com/JasonY199/turtle-dot-painting.git```
 
 3. Open the terminal and navigate to the project directory
 
