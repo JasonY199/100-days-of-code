@@ -30,7 +30,7 @@ The program simulates a coffee machine that can prepare various coffee types bas
     ```
 2. Navigate to the coffee-machine directory:
     ```bash
-    cd 100-days-of-python/coffee-machine
+    cd coffee-machine
     ```
 3. Run the main Python script:
     ```bash
