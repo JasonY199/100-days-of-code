@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors
+# Rock Paper Scissors
 
 A simple command-line game of Rock, Paper, Scissors built with Python. This project was done as a project while working on the 100 days of Python course on Udemy. Currently have 
 a trial of Github Copilot, so was utilizing some of that in Visual Studio Code while working on this small project.
