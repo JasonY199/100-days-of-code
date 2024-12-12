@@ -33,9 +33,9 @@ https://replit.com/@JasonY199/password-generator
 ## How to Install
 1. Clone the repository:
     ```bash
-    git clone https://github.com/JasonY199/password-generator
+    git clone https://github.com/JasonY199/pypassword-generator
 
-    cd password-generator
+    cd pypassword-generator
     ```
 
 2. Ensure Python is installed:<br>
