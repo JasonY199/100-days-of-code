@@ -5,8 +5,6 @@ A command-line application in Python that helps you generate secure passwords ta
 ### Online Demo's Here:
 https://trinket.io/python3/b4a4884af792?outputOnly=true&runOption=run
 
-https://replit.com/@JasonY199/password-generator
-
 ## Features
 
 - Customizable Passwords:
