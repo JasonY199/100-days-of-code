@@ -26,14 +26,14 @@ The program simulates a coffee machine that can prepare various coffee types bas
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/jason/100-days-of-python.git
+    git clone https://github.com/JasonY199/100days-coffee-machine.git
     ```
 2. Navigate to the coffee-machine directory:
     ```bash
-    cd coffee-machine
+    cd 100days-coffee-machine
     ```
 3. Run the main Python script:
     ```bash
-    python main.py
+    python3 main.py
     ```
     
