@@ -31,7 +31,7 @@ https://trinket.io/python3/b4a4884af792?outputOnly=true&runOption=run
 ## How to Install
 1. Clone the repository:
     ```bash
-    git clone https://github.com/JasonY199/pypassword-generator
+    git clone https://github.com/JasonY199/100days-password-generator.git
 
     cd pypassword-generator
     ```
@@ -41,7 +41,7 @@ https://trinket.io/python3/b4a4884af792?outputOnly=true&runOption=run
 
 3. Run the application:
     ```bash
-    python main.py
+    python3 main.py
     ```
 
 ## How to Use
