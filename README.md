@@ -33,7 +33,7 @@ https://trinket.io/python3/b4a4884af792?outputOnly=true&runOption=run
     ```bash
     git clone https://github.com/JasonY199/100days-password-generator.git
 
-    cd pypassword-generator
+    cd 100days-password-generator
     ```
 
 2. Ensure Python is installed:<br>
