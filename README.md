@@ -14,11 +14,11 @@ In this projects course tutorial, they are not dynamically fetching the question
 1. Ensure Python 3.12.x is installed on your system (what was using during development of this program)
 2. Clone the repository
 
-    ```git clone https://github.com/JasonY199/trivia-game.git```
+    ```git clone https://github.com/JasonY199/100days-trivia-game.git```
 
 3. Open the terminal and navigate to the project directory
 
-    ```cd trivia-game```
+    ```cd 100days-trivia-game```
 
 4. Create a virtual environment by running the command:
 
