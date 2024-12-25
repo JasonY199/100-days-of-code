@@ -14,24 +14,24 @@ In this projects course tutorial, they are not dynamically fetching the question
 1. Ensure Python 3.12.x is installed on your system (what was using during development of this program)
 2. Clone the repository
 
-    ```git clone https://github.com/JasonY199/100days-trivia-game.git```
+   `git clone https://github.com/JasonY199/100-days-of-code.git`
 
 3. Open the terminal and navigate to the project directory
 
-    ```cd 100days-trivia-game```
+   `cd 100-days-of-code/trivia-game`
 
 4. Create a virtual environment by running the command:
 
-    ```python3 -m venv venv```
+   `python3 -m venv venv`
 
 5. On Mac, activate the virtual environment by running the command:
 
-    ```source venv/bin/activate```
+   `source venv/bin/activate`
 
 6. Install the dependencies by running the command:
 
-    ```pip install -r requirements.txt```
+   `pip install -r requirements.txt`
 
 7. Start the application by running the command:
 
-    ```python3 main.py```
+   `python3 main.py`

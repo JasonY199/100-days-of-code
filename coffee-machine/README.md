@@ -4,7 +4,6 @@ This project is part of the "100 Days of Python" course. However, rather than si
 
 The program simulates a coffee machine that can prepare various coffee types based on user input. It incorporates features like resource management, handling monetary transactions, and displaying machine status, showcasing my ability to plan and execute a Python project without external guidance.
 
-
 ## Features
 
 - Menu options for different types of coffee (espresso, latte, cappuccino)
@@ -25,15 +24,19 @@ The program simulates a coffee machine that can prepare various coffee types bas
 ## How to Run
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/JasonY199/100days-coffee-machine.git
-    ```
+
+   ```bash
+   git clone https://github.com/JasonY199/100-days-of-code.git
+   ```
+
 2. Navigate to the coffee-machine directory:
-    ```bash
-    cd 100days-coffee-machine
-    ```
+
+   ```bash
+   cd 100-days-of-code/coffee-machine
+   ```
+
 3. Run the main Python script:
-    ```bash
-    python3 main.py
-    ```
-    
+
+   ```bash
+   python3 main.py
+   ```
